@@ -1,8 +1,8 @@
 name: Let  Us  Linux
-title: Open Source Hub
+title: Linux Hub
 description: >-
   Let Us Linux helps to provide the detailed information on Open Source
-  Technology 
+  Technologies. 
 tags:
   - blog
   - linux
@@ -15,6 +15,10 @@ tags:
   - AWS
   - GCP
   - Azure
+  - Redhat
+  - Ubuntu
+  - Cent OS
+  - MySQl
 show_hero: false
 menu:
   - title: Home
