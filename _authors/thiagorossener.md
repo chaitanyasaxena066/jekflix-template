@@ -1,7 +1,7 @@
 ---
 layout: author
 photo: /assets/img/uploads/profile.png
-name: Chaitanya Saxena
+name: ChaitanyaSaxena
 display_name: _Linux_Freak_
 position: Chief Editor
 bio: >-
