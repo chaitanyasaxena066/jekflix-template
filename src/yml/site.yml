@@ -1,15 +1,21 @@
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by Thiago Rossener.
+name: Let  Us  Linux
+title: Open Source Hub
+description: >-
+  Let Us Linux helps to provide the detailed information on Open Source
+  Technology 
 tags:
   - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
-email: youremail@xyz.com
-disqus_username: disqus_username
-show_hero: true
+  - linux
+  - open source
+  - cloud
+  - cloud computing
+  - servers
+  - ansible
+  - devops
+  - AWS
+  - GCP
+  - Azure
+show_hero: false
 menu:
   - title: Home
     url: /
@@ -19,3 +25,5 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
+email: chaitanyasaxena066@gmail.com
+disqus_username: 'disqus_iUgufWMq32 '
