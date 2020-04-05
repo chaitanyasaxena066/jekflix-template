@@ -1,0 +1,590 @@
+---
+date: '2020-04-05 21:24:30'
+layout: post
+title: How To Configure and Install File Transfer Protocol (FTP) Server in Linux
+subtitle: >-
+  This Blog give detailed instructions how to configure and Install File
+  Transfer Protocol (FTP) Server in Linux
+description: test
+image: /assets/img/uploads/profile.png
+category: tutorial
+tags:
+  - ftp full form
+  - ftp port
+  - ftp 2015-20
+  - ftp server
+  - ftp port number
+  - ftp protocol
+  - ftp download
+  - ftpl
+  - ftp full form in computer
+  - ftp access
+  - ftp account
+  - ftp address
+  - ftp alphamediazone
+  - ftp application
+  - ftp and sftp
+  - ftp anonymous login
+  - ftp and telnet
+  - a ftp vs an ftp
+  - a ftp server
+  - a ftp server address
+  - a ftp program
+  - a ftp url
+  - a ftp full form
+  - a ftp link
+  - a ftp process
+  - ftp browser
+  - ftp bounce attack
+  - ftp bind address already in use
+  - ftp backup
+  - ftp bangalore
+  - ftp brain
+  - ftp bd
+  - ftp binary mode
+  - b) ftp //infoeq.religare.in/
+  - $b ftp
+  - ftp b.net
+  - b.net ftp server
+  - bomax type b-ftp
+  - raspberry pi b+ ftp server
+  - gould type b-ftp
+  - ftp b&r
+  - ftp client
+  - ftp command
+  - ftp client windows
+  - ftp command in linux
+  - ftp cricket
+  - ftp connection
+  - ftp configuration
+  - ftp client for mac
+  - c http get request
+  - c http server
+  - c http request
+  - c http library
+  - c http post json
+  - c http client
+  - c ftp server
+  - c ftp client
+  - ftp data port number
+  - ftp definition
+  - ftp default port
+  - ftp dgft
+  - ftp details
+  - ftp diagram
+  - ftp download for mac
+  - ftp d'link firmware
+  - ftp d'link multimedia view cam
+  - ftpd server
+  - d'link ftp username and password
+  - ftp d-link
+  - ftpc30v12-d
+  - ftp error
+  - ftp example
+  - ftp ensembl genomes
+  - ftp explain
+  - ftp error 550
+  - ftp exploit
+  - ftp error codes
+  - ftp explorer
+  - eftpos
+  - eftps
+  - eftpos full form
+  - eftpos machine
+  - eftpos stands for
+  - eftpos card
+  - eftpos terminal
+  - eftpos nz
+  - ftp file transfer
+  - ftp full form in networking
+  - ftp for mac
+  - ftp folder
+  - ftp file
+  - ftp folder error
+  - f/ftp cable meaning
+  - f/ftp cat6a
+  - f/ftp vs u/utp
+  - f/ftp cat 7
+  - f/ftp 450/23
+  - f-ftpbnc
+  - f/ftp vs sftp
+  - f/ftp u/utp
+  - ftp get command
+  - ftp geeksforgeeks
+  - ftp get
+  - ftp games
+  - ftp google
+  - ftp godaddy
+  - ftp google drive
+  - ftp get directory
+  - g ftp.exe
+  - ftp g pen
+  - ftp g59
+  - g suite ftp
+  - g suite ftp server
+  - g drive ftp
+  - g6 ftp server
+  - 4chan g ftp
+  - ftp handbook of procedures
+  - ftp host
+  - ftp header
+  - ftp http
+  - ftp hikvision
+  - ftp host port
+  - ftp hostname
+  - ftp how to use
+  - hftp
+  - hftp full form
+  - hftp
+  - biharprd.bih.nic.in
+  - ecruitment.htrn
+  - https
+  - hftp test
+  - hftp annual convention
+  - hftp club summit
+  - ftp iiitd
+  - ftp india
+  - ftp in computer networks
+  - ftp in linux
+  - ftp in networking
+  - ftp is used for
+  - ftp icc
+  - ftp in medical
+  - i.ftp download
+  - i ftp.dell.com
+  - ftp i won't open a connection to
+  - ftp i/o error
+  - ftp i utp
+  - ftp i would do anything for you lyrics
+  - ftp i sftp
+  - ftp i windows 10
+  - ftp java
+  - ftp javatpoint
+  - ftp job
+  - ftp java program
+  - ftp job in mainframe
+  - ftp javascript
+  - ftp jmeter
+  - ftp java api
+  - j-ftp
+  - frp-j2-smp-m
+  - intellij ftp
+  - ftp j calvin ddns net
+  - ftp ka full form
+  - ftp kya hai
+  - ftp ka pura naam
+  - otp kya hota hai
+  - ftp ka full form kya hai
+  - ftp ka full form in computer
+  - ftp ka pura naam kya hai
+  - ftp ka pura name
+  - ftp - k je jedanaesto abcdno slovo lyrics
+  - ftp k 10
+  - ftpb-k
+  - ftp-k-2-smp-m
+  - k-1 ftp
+  - iitk ftp
+  - svchost exe k ftpsvc
+  - ftp k fischer
+  - ftp login
+  - ftp linux
+  - ftp link
+  - ftp login command
+  - ftp login online
+  - ftp logs
+  - ftp localhost
+  - ftp logo
+  - ftp l
+  - 192.168.l.l ftp
+  - cos'è l'ftp
+  - ftp meaning
+  - ftp manager lite
+  - ftp movies
+  - ftp medical abbreviation
+  - ftp meaning in computer
+  - ftp manager
+  - ftp mac
+  - ftp medical term
+  - mftp
+  - mft full form
+  - mftp meaning
+  - aftpb
+  - mft id
+  - mft vs ftp
+  - mft protocol
+  - mftp iit kgp
+  - ftp ncbi
+  - ftp nmap
+  - ftp ncbi genomes
+  - ftp not working
+  - ftp not connected
+  - ftp notes
+  - ftp net4india
+  - ftp npm
+  - ftp n option
+  - ftpbd.n
+  - ftp n command
+  - ftp on switch
+  - ftp n flag
+  - quick n ftp server
+  - prompt in ftp
+  - http and ftp
+  - ftp online
+  - ftp over tls
+  - ftp of indian cricket team
+  - ftp on windows
+  - ftp operation
+  - ftp on mac
+  - ftp on windows 10
+  - ftp on linux
+  - o ftp é
+  - ftp o'reilly
+  - o conf ftp
+  - ftp o que é
+  - ftp o utp
+  - ftp o sftp
+  - ftp o que significa
+  - ftp o smb
+  - ftp port no
+  - ftp policy
+  - ftp port 22
+  - ftp program
+  - ftp put command
+  - prot p ftp
+  - s&p ftp
+  - p&l ftp 30
+  - prot p ftp command
+  - prot_p ftplib
+  - ftps.prot p()
+  - python ftplib
+  - ftp quora
+  - ftp quote command
+  - ftp questions
+  - http quiz
+  - http query parameters
+  - http qrgo page link nldc2
+  - http quiz mygov in quiz ebsb
+  - http qrgo page link agmwz
+  - qftp
+  - qftp example
+  - qftp download
+  - qftp qt5
+  - qftp nil
+  - zftpserver
+  - qftpc instagram
+  - qftp put
+  - ftp resonance
+  - ftp response 421
+  - ftp request
+  - ftp rfc
+  - ftp rush
+  - ftp rate
+  - ftp raspberry pi
+  - ftp reverse shell
+  - r ftpupload
+  - r ftp package
+  - r ftp client
+  - r ftp list files
+  - r ftp download file
+  - r ftp proxy
+  - r ftp delete file
+  - r ftp password
+  - ftp stands for
+  - ftp software
+  - ftp server download
+  - ftp server windows 10
+  - ftp server in linux
+  - ftp sites
+  - ftp server meaning
+  - s ftp cable
+  - s/ftp vs u/utp
+  - s/ftp kabel
+  - s/ftp
+  - (s)ftp
+  - ftp test
+  - ftp transfer
+  - ftp tutorialspoint
+  - ftp tool
+  - ftp task in ssis
+  - ftp types
+  - ftp tutorial
+  - ftp tcp or udp
+  - ftp t shirt
+  - ftp uses
+  - ftp utility
+  - ftp upload
+  - ftp uses tcp or udp
+  - ftp url
+  - ftp username and password
+  - ftp ubuntu
+  - ftp using python
+  - u/ftp vs f/utp
+  - u/ftp cable vs f/utp
+  - u/ftp vs stp
+  - u/ftp vs utp
+  - u/ftp vs s/utp
+  - u/ftp shielded
+  - u/ftp lszh
+  - u/ftp kabel
+  - ftp vs sftp
+  - ftp vs http
+  - ftp vs tftp
+  - ftp vs ftps
+  - ftp voyager
+  - ftp video
+  - ftp vs ssh
+  - ftp vulnerabilities
+  - sftp vs ftp
+  - ftps vs sftp
+  - ftp vs utp
+  - tftp vs ftp
+  - ftp-v u3 78/98
+  - http or ftp
+  - api vs ftp
+  - ftp v age
+  - ftp website
+  - ftp windows
+  - ftp wikipedia
+  - ftp works on which layer
+  - ftp working
+  - ftp windows 10
+  - ftp wordpress
+  - ftp web server
+  - ftp w/kg
+  - ftp w/kg chart
+  - ftp w/kg calculator
+  - ftp w/kg running
+  - ftp w/kg table
+  - 300w ftp
+  - 400 w ftp
+  - zwift ftp w/kg
+  - ftp xbox
+  - ftp x dc
+  - ftp x huf
+  - ftp x undefeated
+  - ftp x champion
+  - ftp x lakai
+  - ftp xbox 360
+  - ftp x fuct
+  - ftp x undefeated hoodie
+  - ftp x crap eyewear
+  - ftp x pro club
+  - ftp x dc snowboard
+  - ftp youtube
+  - ftp your connection is not private
+  - ftp yum repository rhel 7
+  - ftp year
+  - ftp yummy
+  - ftp y sftp
+  - ftp yield curve
+  - ftp yale
+  - y-cam ftp
+  - ftp y tftp
+  - ftp y utp
+  - ftp y http
+  - ftp y p2p
+  - ftp y umbral anaerobico
+  - ftp y ssh
+  - filezilla
+  - ftp zones
+  - ftp zscaler
+  - filezilla server
+  - filezilla for mac
+  - ftp zone calculator
+  - z ftp server
+  - ftp z/os
+  - ftp z/os site command
+  - ftp z/os mainframe
+  - ftp z os commands
+  - ftp-z wine
+  - ftps z/os client
+  - ftp z/os unix
+  - ftp 000webhost
+  - ftp 0 byte file
+  - ftp 0 * c
+  - ftp 0 * i
+  - ftp 000webhost filezilla
+  - ftp-0.17-54.el6.x86_64
+  - ftp 000webhost not working
+  - ftp 0 bytes transferred
+  - ftp 0 bytes
+  - ftp 0 bytes upload
+  - ftp 0 byte file error
+  - ftp 0 day
+  - ftp 0 files retrieved
+  - ftp 15-20
+  - ftp 127.0.0.1
+  - ftp 10.5.2.32
+  - ftp 10.5.5.55
+  - ftp 192.168 l 3.2121
+  - ftp 1gb file download test
+  - ftp 10 year
+  - ftp 10 year anniversary shirt
+  - 1 ftp account
+  - 1 npt fitting
+  - 1 ft in nm
+  - ftpl-1
+  - ftp 1 pln
+  - ftp 1 hour
+  - ftp 1 * c
+  - ftp 1 hour test
+  - ftp 2020-25
+  - ftp 2009-14
+  - ftp 2020
+  - ftp 2015
+  - ftp 2020-25 pdf
+  - ftp 2015-20 upsc
+  - ftp 2004-09
+  - 2 ftp sites on one server
+  - 2 ftp servers 1 network
+  - ftp*2 apps
+  - ftp 2 ports
+  - ftp*2 apps beijing bei
+  - ftp 2 factor authentication
+  - ftp*2 apps charge on credit card
+  - ftp 2 apps beijing
+  - ftp 3gpp
+  - ftp 32 bit download
+  - ftp 3.0.3 exploit
+  - ftp 3ds
+  - ftp 331
+  - ftp 331 error
+  - ftp 300
+  - ftp 32
+  - 3 ftp transfer modes
+  - 3ft pre lit christmas tree
+  - ftp 3 watts per kg
+  - ftp 3 way handshake
+  - ftp 3 minute test
+  - ftp 3 pack
+  - ftp 3 nyc
+  - ftp3 j31
+  - ftp 421 service not available
+  - ftp 421 server closed connection
+  - ftp 425 failed to establish connection
+  - ftp 421 timeout
+  - ftp 425 no data connection
+  - ftp 426 transfer failed
+  - ftp 425 bad ip connecting
+  - ftp 425
+  - ftp 4 watts/kg
+  - ftp 4 w/kg
+  - ftp 4 week zwift
+  - ftp 4 players teamspeak
+  - ftp 4 android
+  - ftp 4 hours
+  - ftpexception 4 failure
+  - 4 week ftp booster review
+  - ftp 530
+  - ftp 550
+  - ftp 550 permission denied
+  - ftp 550 failed to open file
+  - ftp 530 login incorrect
+  - ftp 550 error
+  - ftp 530 user cannot log in
+  - ftp 500 illegal port command
+  - 5 ftp logins
+  - 5 ftp rajasthan
+  - ftp 5 minute test
+  - ftp 5 cat
+  - ftp 5 w/kg
+  - ftp 5 panel
+  - ftp 5 panel hat
+  - ftp 5 exploit
+  - ftp 628mcl103 thermal printer
+  - ftp 64 bit download
+  - ftp 666 jacket
+  - ftp 64
+  - ftp 64 for alg
+  - ftp 6.00ls
+  - ftp 666 varsity jacket
+  - ftp 60 year old
+  - 6ft pool table
+  - 6ft pre lit christmas tree
+  - ftp 6 cat
+  - ftp 6 year anniversary
+  - ftpa-6-1502-nwb
+  - cat 6 ftp vs utp
+  - centos 6 ftp server
+  - 6 week ftp builder
+  - ftp 75
+  - ftp 75 driving cycle
+  - ftp 72 drive cycle
+  - ftp 75 driving cycle excel
+  - ftp75 drive cycle excel
+  - ftp 72
+  - ftp 74
+  - ftp 75 cycle duration
+  - ftp 7 cat
+  - ftp 7 days to die
+  - ftp 7 zones
+  - centos 7 ftp server
+  - windows 7 ftp server
+  - windows 7 ftp
+  - centos 7 ftp client
+  - windows 7 ftp client
+  - ftp 80
+  - ftp 8min test
+  - ftp-802
+  - ftp-8 flushable transmitter
+  - ftp-80c
+  - ftp 8 min
+  - ftp-8704
+  - ftp 8083
+  - 8 ft
+  - 8 ft in meters
+  - 8 ft in inches
+  - 8 ft in cm
+  - 8 ft into inches
+  - 8 ft in mm
+  - 8 ft to m
+  - 8 ft teddy bear
+  - ftp 900
+  - ftp 990
+  - ftp 9mm luger
+  - ftp 98mm lid
+  - ftp 95
+  - ftp 900 custom stock
+  - ftp 98mm air lid
+  - ftp 900 custom parts
+  - 9ft pool table
+  - ftp 9
+  - debian 9 ftp server
+  - debian 9 ftp command not found
+  - note 9 fpt
+  - debian 9 ftp setup
+  - ontap 9 ftp
+  - ontap 9 ftp server
+author: Chaitanya Saxena
+paginate: false
+---
+
+
+**FTP**  ("**File Transfer Protocol"**) -> FTP is use to transfer the Files / Directories between the computer . Also FTP is the centralised Data Base of an organisation. FTP is the Old and Powerful protocol use to transfer the files and directories  between server & clients. FTP  is built on a client-server model architecture, which we can access to files and directories via an FTP client, to upload files to the server as well as download files from it.
+
+* FTP Server Supports Both Local Area Network (LAN) as well as Wide Area Networks (Wan)
+
+FTP Server Port Numbers : 
+
+* 20 -  Data Connection for Uploading and Downloading Files / Directories 
+* 21 - Connection Control Port   
+
+FTP Server Package  Name - >  vsftpd
+
+Types Of FTP's Users:
+
+* Anonymous User - This user is created automatically when we install FTP server.  This user has the privilege to only Download the Data but cannot Upload the Data. This user Home Directory is in ( /var/ftp). This user doesn't require password for login to FTP server. 
+* FTP Users - These users are created manually . These users has the privilege to Download as well as Upload  Data. These user Home Directory is in ( /home). This user require password for login to FTP server. 
+
+<font color="3374FF">Prerequisite - > <font color="080808">Before Installing FTP server configure the YUM Repository to the Server as well as in Client Machine.
+
+<font color="3374FF"> Install FTP Server on Cent Os 8
+
+1. To install secure FTP package, use the following command 
+
+   ```shell
+    yum install vsftpd * -y 
+   ```
+
+   * Please Note that * (Will automatically install all the required files)
+   * \-y (Will allow us not to type Yes again and again while installation )
